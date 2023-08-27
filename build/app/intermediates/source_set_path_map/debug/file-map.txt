@@ -1,0 +1,16 @@
+com.example.fashionapp-jetified-window-java-1.0.0-beta04-0 C:\Users\Sanjay\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.fashionapp-core-1.7.0-1 C:\Users\Sanjay\.gradle\caches\transforms-3\74ce2690f7529852b8321388684fcbb6\transformed\core-1.7.0\res
+com.example.fashionapp-lifecycle-runtime-2.3.1-2 C:\Users\Sanjay\.gradle\caches\transforms-3\76da31ad033c53187dd7271282d0f7d2\transformed\lifecycle-runtime-2.3.1\res
+com.example.fashionapp-jetified-annotation-experimental-1.1.0-3 C:\Users\Sanjay\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.fashionapp-jetified-window-1.0.0-beta04-4 C:\Users\Sanjay\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.example.fashionapp-jetified-exoplayer-core-2.18.7-5 C:\Users\Sanjay\.gradle\caches\transforms-3\ef2321c8ef384bd7d821c1ecf44a36ab\transformed\jetified-exoplayer-core-2.18.7\res
+com.example.fashionapp-debug-6 C:\Users\Sanjay\Documents\flutter\Resume\fashionapp\android\app\src\debug\res
+com.example.fashionapp-main-7 C:\Users\Sanjay\Documents\flutter\Resume\fashionapp\android\app\src\main\res
+com.example.fashionapp-pngs-8 C:\Users\Sanjay\Documents\flutter\Resume\fashionapp\build\app\generated\res\pngs\debug
+com.example.fashionapp-resValues-9 C:\Users\Sanjay\Documents\flutter\Resume\fashionapp\build\app\generated\res\resValues\debug
+com.example.fashionapp-rs-10 C:\Users\Sanjay\Documents\flutter\Resume\fashionapp\build\app\generated\res\rs\debug
+com.example.fashionapp-mergeDebugResources-11 C:\Users\Sanjay\Documents\flutter\Resume\fashionapp\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.fashionapp-mergeDebugResources-12 C:\Users\Sanjay\Documents\flutter\Resume\fashionapp\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.fashionapp-merged_res-13 C:\Users\Sanjay\Documents\flutter\Resume\fashionapp\build\app\intermediates\merged_res\debug
+com.example.fashionapp-packaged_res-14 C:\Users\Sanjay\Documents\flutter\Resume\fashionapp\build\path_provider_android\intermediates\packaged_res\debug
+com.example.fashionapp-packaged_res-15 C:\Users\Sanjay\Documents\flutter\Resume\fashionapp\build\video_player_android\intermediates\packaged_res\debug
